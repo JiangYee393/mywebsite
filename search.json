@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mywebsite",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "我的个人网站",
+    "section": "📚 关于我",
+    "text": "📚 关于我\n我是 江兰钐，一名硕士研究生。\n\n🎓 就读于 华中农业大学 | 环境规划与管理 (2025-至今)\n💻 研究方向：生态系统脆弱性、碳核算\n🌱 正在学习： Arcgis、positron"
+  },
+  {
+    "objectID": "index.html#最新动态",
+    "href": "index.html#最新动态",
+    "title": "我的个人网站",
+    "section": "🔔 最新动态",
+    "text": "🔔 最新动态\n\n🔭 目前在阅读研究方向相关文献\n📫 联系方式：1831652734@qq.com"
+  },
+  {
+    "objectID": "index.html#快速链接",
+    "href": "index.html#快速链接",
+    "title": "我的个人网站",
+    "section": "🔗 快速链接",
+    "text": "🔗 快速链接\n\n关于我 - 查看我的详细经历\nGitHub - 我的代码仓库"
   },
   {
     "objectID": "about.html",
